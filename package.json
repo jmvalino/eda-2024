@@ -1,0 +1,15 @@
+{
+  "name": "eda-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --import tsx --test src/**/*test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.145",
+    "@types/node": "^22.7.6"
+  }
+}
